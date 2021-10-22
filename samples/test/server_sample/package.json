@@ -1,0 +1,12 @@
+{
+    "name": "zephyr-test",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "TeXniKK",
+    "license": "ISC",
+    "dependencies": {
+    }
+}
